@@ -1,0 +1,176 @@
+================================================================================
+                        LICENCE PROPRIÉTAIRE CANFLIX
+                           Version 1.0 — Mai 2026
+================================================================================
+
+Copyright (c) 2026 Canflix. Tous droits réservés.
+
+--------------------------------------------------------------------------------
+DÉFINITIONS
+--------------------------------------------------------------------------------
+
+"Logiciel" désigne l'ensemble du code source, fichiers de configuration,
+scripts, bases de données, interfaces utilisateur, documentation et tout autre
+composant du projet Canflix fourni sous cette licence.
+
+"Titulaire" désigne le propriétaire légal du Logiciel, tel qu'indiqué ci-dessus.
+
+"Utilisateur" désigne toute personne physique ou morale ayant reçu une copie
+du Logiciel.
+
+--------------------------------------------------------------------------------
+DROITS ACCORDÉS
+--------------------------------------------------------------------------------
+
+Sous réserve du respect des conditions de la présente licence, le Titulaire
+accorde à l'Utilisateur un droit limité, non exclusif, non transférable et
+révocable d'utiliser le Logiciel uniquement pour :
+
+  1. Déployer et exploiter le Logiciel sur ses propres serveurs à des fins
+     commerciales personnelles ou pour le compte d'une seule entité juridique.
+
+  2. Modifier le Logiciel pour l'adapter à ses besoins propres, à condition
+     que ces modifications restent strictement privées et ne soient pas
+     redistribuées.
+
+--------------------------------------------------------------------------------
+RESTRICTIONS — CE QUI EST INTERDIT
+--------------------------------------------------------------------------------
+
+Il est STRICTEMENT INTERDIT à l'Utilisateur de :
+
+  1. REDISTRIBUER — Vendre, louer, prêter, céder, partager ou distribuer le
+     Logiciel ou une partie de celui-ci, sous forme originale ou modifiée,
+     à titre gratuit ou onéreux.
+
+  2. SOUS-LICENCIER — Accorder à des tiers des droits sur le Logiciel ou
+     créer des œuvres dérivées destinées à être distribuées.
+
+  3. COPIER À DES FINS DE REVENTE — Reproduire le Logiciel pour le proposer
+     comme produit ou service concurrent.
+
+  4. SUPPRIMER LES MENTIONS — Retirer, modifier ou masquer tout avis de
+     copyright, marque, ou mention d'attribution présent dans le Logiciel.
+
+  5. DÉCOMPILER À DES FINS MALVEILLANTES — Procéder à la rétro-ingénierie
+     dans le but de contourner des mécanismes de sécurité ou de licence.
+
+  6. USAGE MULTI-ENTITÉS — Déployer le Logiciel pour le compte de plusieurs
+     entités juridiques distinctes sans autorisation écrite préalable du
+     Titulaire.
+
+--------------------------------------------------------------------------------
+PROPRIÉTÉ INTELLECTUELLE
+--------------------------------------------------------------------------------
+
+Le Logiciel est et demeure la propriété exclusive du Titulaire. La présente
+licence ne transfère aucun droit de propriété intellectuelle à l'Utilisateur.
+Toute utilisation du Logiciel hors du cadre défini ci-dessus constitue une
+violation des droits du Titulaire et pourra faire l'objet de poursuites.
+
+Les marques, logos et noms commerciaux associés au projet Canflix sont la
+propriété du Titulaire et ne peuvent être utilisés sans autorisation écrite
+expresse.
+
+--------------------------------------------------------------------------------
+CLAUSE DE CONFIDENTIALITÉ
+--------------------------------------------------------------------------------
+
+L'Utilisateur s'engage à traiter le Logiciel et toute documentation associée
+comme des informations confidentielles. Il s'engage notamment à :
+
+  - Ne pas divulguer le code source, les architectures techniques ou les
+    mécanismes de fonctionnement à des tiers non autorisés.
+
+  - Mettre en place des mesures raisonnables pour protéger la confidentialité
+    du Logiciel.
+
+  - Notifier immédiatement le Titulaire en cas de divulgation non autorisée
+    avérée ou suspectée.
+
+--------------------------------------------------------------------------------
+PROTECTION DES DONNÉES
+--------------------------------------------------------------------------------
+
+L'Utilisateur qui déploie ce Logiciel s'engage à :
+
+  - Respecter les lois applicables en matière de protection des données
+    personnelles (RGPD ou toute réglementation locale en vigueur).
+
+  - Ne pas utiliser le Logiciel pour collecter, traiter ou vendre des données
+    personnelles à des fins non déclarées aux utilisateurs finaux.
+
+  - Sécuriser de manière adéquate les clés API, credentials et variables
+    d'environnement (.env.local) et ne jamais les exposer publiquement.
+
+--------------------------------------------------------------------------------
+ABSENCE DE GARANTIE
+--------------------------------------------------------------------------------
+
+LE LOGICIEL EST FOURNI "EN L'ÉTAT", SANS GARANTIE D'AUCUNE SORTE, EXPRESSE
+OU IMPLICITE, Y COMPRIS MAIS SANS S'Y LIMITER LES GARANTIES DE QUALITÉ
+MARCHANDE, D'ADÉQUATION À UN USAGE PARTICULIER ET D'ABSENCE DE CONTREFAÇON.
+
+LE TITULAIRE NE GARANTIT PAS QUE LE LOGICIEL SERA EXEMPT D'ERREURS, QUE SON
+FONCTIONNEMENT SERA ININTERROMPU, NI QUE LES DÉFAUTS SERONT CORRIGÉS.
+
+--------------------------------------------------------------------------------
+LIMITATION DE RESPONSABILITÉ
+--------------------------------------------------------------------------------
+
+EN AUCUN CAS LE TITULAIRE NE POURRA ÊTRE TENU RESPONSABLE DE DOMMAGES
+DIRECTS, INDIRECTS, ACCESSOIRES, SPÉCIAUX, EXEMPLAIRES OU CONSÉCUTIFS
+(Y COMPRIS NOTAMMENT LA PERTE DE PROFITS, D'EXPLOITATION, DE DONNÉES OU
+D'AUTRES PERTES INTANGIBLES) RÉSULTANT DE L'UTILISATION OU DE L'IMPOSSIBILITÉ
+D'UTILISER LE LOGICIEL, MÊME SI LE TITULAIRE A ÉTÉ AVERTI DE LA POSSIBILITÉ
+DE TELS DOMMAGES.
+
+L'Utilisateur est seul responsable du bon usage du Logiciel, de la sécurité
+de son infrastructure, et de la conformité légale de son activité commerciale.
+
+--------------------------------------------------------------------------------
+RÉSILIATION
+--------------------------------------------------------------------------------
+
+La présente licence est effective jusqu'à sa résiliation. Elle sera
+automatiquement résiliée, sans préavis, si l'Utilisateur viole l'une
+quelconque de ses dispositions.
+
+En cas de résiliation, l'Utilisateur devra :
+  1. Cesser immédiatement toute utilisation du Logiciel.
+  2. Détruire toutes les copies du Logiciel en sa possession.
+  3. Confirmer par écrit au Titulaire que ces obligations ont été respectées.
+
+La résiliation de la licence ne dispense pas l'Utilisateur des obligations
+de confidentialité, qui demeurent en vigueur indéfiniment.
+
+--------------------------------------------------------------------------------
+DROIT APPLICABLE ET JURIDICTION
+--------------------------------------------------------------------------------
+
+La présente licence est régie par le droit en vigueur en République Togolaise.
+
+Tout litige relatif à l'interprétation, l'exécution ou la validité de la
+présente licence sera soumis à la juridiction compétente de Lomé, Togo, sauf
+accord écrit contraire entre les parties.
+
+--------------------------------------------------------------------------------
+CONTACT ET AUTORISATIONS
+--------------------------------------------------------------------------------
+
+Pour toute demande de permission au-delà du cadre de cette licence
+(partenariat, redistribution autorisée, licence multi-entités, etc.),
+contactez le Titulaire :
+
+  Projet   : Canflix
+  Email    : contact@canflix.tg
+  Pays     : Togo, Afrique de l'Ouest
+
+--------------------------------------------------------------------------------
+
+En utilisant, copiant ou déployant ce Logiciel, vous reconnaissez avoir lu,
+compris et accepté les termes de la présente licence.
+
+================================================================================
+                      © 2026 Canflix — Tous droits réservés
+================================================================================
